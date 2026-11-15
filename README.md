@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Akinrogunde Adedayo 👋
 
-<!--
-**dayouriel/Dayouriel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Network Engineer | Cloud Infrastructure | AWS
 
-Here are some ideas to get you started:
+I'm a Network Engineer expanding my expertise into Cloud Computing, Cloud Infrastructure and DevOps.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm interested in designing, deploying and managing reliable, secure and scalable IT infrastructure.
+
+### Technologies & Areas of Interest
+
+- **Networking:** TCP/IP, VLANs, Routing & Switching, Subnetting
+- **Cloud:** Amazon Web Services (AWS), EC2, VPC, S3, IAM
+- **Operating Systems:** Linux, Ubuntu
+- **Scripting:** Bash, Python
+- **DevOps:** Git, GitHub, Docker, Terraform
+
+### Current Learning Focus
+
+- AWS Cloud Infrastructure
+- Cloud Networking and Security
+- Linux System Administration
+- Infrastructure as Code
+- DevOps Automation
+
+### My Goal
+
+To develop practical expertise in designing, automating and managing cloud and network infrastructure through hands-on projects.
+
+### Connect with me
+
+- GitHub: https://github.com/dayouriel
